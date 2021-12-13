@@ -1,4 +1,3 @@
-import styles from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
@@ -25,6 +24,3 @@ const DUMMY_MEALS = [
     price: 18.99,
   },
 ];
-const AvailableMeals = () => {};
-
-export default AvailableMeals;
