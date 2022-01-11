@@ -1,0 +1,168 @@
+[33mcommit 254dfade0f2a08a29f105d223479c7eaa47b9d46[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Jan 10 10:52:49 2022 +0100
+
+    before map meals
+
+[33mcommit 17e61ac49835ad922bad341117d6b235f3ebae61[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Jan 10 10:37:53 2022 +0100
+
+    HeaderCartButton component
+
+[33mcommit 2733896d5d5ee92604ec96071be6e0818ca8b01e[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Jan 10 10:13:11 2022 +0100
+
+    Header component
+
+[33mcommit 6f93dc5f7eecbc034213cfdab1c0202ea97a7473[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Jan 10 10:06:59 2022 +0100
+
+    Header component
+
+[33mcommit b737df8e068bfbce5ed24b964b6226f4eeeb6ac5[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Jan 10 09:31:28 2022 +0100
+
+    first commit
+
+[33mcommit 62dd2af59fac6f70c230dbe595088de2fa52dfbe[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 21 09:31:45 2021 +0100
+
+    useContext
+
+[33mcommit 28693252cd63b0f36cda6be5c8f309bb64d8c928[m
+Merge: 2eb1671 7a7a39d
+Author: fstipo <fstipanov@gmail.com>
+Date:   Sat Dec 18 13:45:16 2021 +0100
+
+    commit
+
+[33mcommit 2eb167132d5a3a48b95729b875c9c905016b5e94[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Sat Dec 18 13:42:44 2021 +0100
+
+    merge
+
+[33mcommit 7a7a39d3dba7db7bcd6eb95417fffd921256880e[m[33m ([m[1;31morigin/practice[m[33m, [m[1;32mpractice[m[33m)[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Sat Dec 18 13:40:46 2021 +0100
+
+    Before merge
+
+[33mcommit 34ad9bc1cbff10df2009ef91392a46a8d2aa704d[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Sat Dec 18 13:22:47 2021 +0100
+
+    before useState
+
+[33mcommit 10be50a358707356a6ffac220dd567be1e8fe84d[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Sat Dec 18 13:18:24 2021 +0100
+
+    Before useState
+
+[33mcommit 6e3c289dd9fd73284e7fc716cbb9f6523f0ef3e1[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Thu Dec 16 10:02:54 2021 +0100
+
+    interest part str. 124
+
+[33mcommit 7e2f9f15a2be69963a402c022881ff96de9af938[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Thu Dec 16 09:56:43 2021 +0100
+
+    Meals
+
+[33mcommit abe29426a951b082366db430dcc8898de8dd2fed[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Thu Dec 16 09:46:10 2021 +0100
+
+    Header cart button
+
+[33mcommit c33a137d2cc56a5b1694356e6f1efbe3152c261d[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Thu Dec 16 09:37:43 2021 +0100
+
+    Beginning
+
+[33mcommit 14620b8d98c8feb20e43b4fb94d5859968ae9970[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Wed Dec 15 13:06:26 2021 +0100
+
+    Add Context
+
+[33mcommit 0fdb222b36416cc9a2522e730ea73ecd026302a7[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Wed Dec 15 12:40:24 2021 +0100
+
+    Modal state i Cart state
+
+[33mcommit 297a42b20455f910b45b7263aefb4b1c4afc3d99[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Wed Dec 15 10:11:17 2021 +0100
+
+    Cart component
+
+[33mcommit f920e1dd66c82c826fc0f5d9ea52fc6bacc93efa[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 14 13:34:48 2021 +0100
+
+    Meal Input form
+
+[33mcommit 255f2486c4b84b8a6f968a1f8f5ff202679000df[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 14 11:45:19 2021 +0100
+
+    Meal Form
+
+[33mcommit 6ea7697b11939b544672171036b7195c6993e43f[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 14 11:10:27 2021 +0100
+
+    Meals items
+
+[33mcommit 8cd984b7598cb59043339af7567e34ad4e7b42e7[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Dec 13 12:42:25 2021 +0100
+
+    available meals start
+
+[33mcommit f4313feed2888030c6675d8826c5247da041d3a6[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Dec 13 12:35:03 2021 +0100
+
+    meals summary
+
+[33mcommit e241791a3162eff192e8b2405dfa14f0f136e419[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Mon Dec 13 10:38:07 2021 +0100
+
+    before meals
+
+[33mcommit 7a89540cd108c89c8aa5e3ef7dfd2b49c9c5957f[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Wed Dec 8 07:40:21 2021 +0100
+
+    Fresh start
+
+[33mcommit fbfe05e646b54b75957e5d603e03baaf2c5ff9af[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 7 11:27:59 2021 +0100
+
+    header button
+
+[33mcommit 27452e58dd4ecf87eed414463d60e50cc6c2fa63[m
+Author: fstipo <fstipanov@gmail.com>
+Date:   Tue Dec 7 10:30:48 2021 +0100
+
+    header
+
+[33mcommit cec886eef9d674fb25c7168ab71e2f18d4b41d11[m
+Author: Franko Stipanov <fstipanov@gmail.com>
+Date:   Tue Dec 7 09:32:22 2021 +0100
+
+    first commit
