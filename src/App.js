@@ -16,6 +16,7 @@ const App = () => {
     <>
       {cartIsShown && <Cart onClose={hideCartHandler} />}
       <Header onShowCart={showCartHandler} />
+      <p>C</p>
       <main>
         <Meals />
       </main>
