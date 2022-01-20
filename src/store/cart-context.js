@@ -7,7 +7,7 @@
 //   removeItem: (id) => {},
 // });
 
-// export default CartContext;
+// export default
 
 import React from 'react';
 
